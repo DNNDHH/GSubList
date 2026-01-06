@@ -1,0 +1,27 @@
+name: Auto Update Files
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 每天 UTC 0 点
+  workflow_dispatch:     # 支持手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update file
+        run: |
+          echo "更新时间：$(date -u)" > update.txt
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .
+          git commit -m "chore: auto update files" || echo "No changes to commit"
+          git push
