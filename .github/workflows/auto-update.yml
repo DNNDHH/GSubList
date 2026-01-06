@@ -8,20 +8,40 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.11]
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+
+      - name: Install Requeriments
+        run: |
+          sudo apt-get install zip
+          pip install json5 httpx requests
+
+          
       - name: Update file
         run: |
-          echo "更新时间：$(date -u)" > update.json
+          python3 main.py
+        env:
+          HEADERS_A: ${{ secrets.HEADERS_A }}
+          HEADERS_B: ${{ secrets.HEADERS_B }}
+          HEADERS_C: ${{ secrets.HEADERS_C }}
+          HEADERS_D: ${{ secrets.HEADERS_D }}
+          INFO: ${{ secrets.INFO }}
+          URL_A: ${{ secrets.URL_A }}
+          URL_B: ${{ secrets.URL_B }}
+          URL_C: ${{ secrets.URL_C }}
+
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add .
+          git add update.json
           git commit -m "chore: auto update files" || echo "No changes to commit"
           git push
