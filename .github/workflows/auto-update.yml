@@ -27,10 +27,6 @@ jobs:
         run: |
           python3 main.py
         env:
-          HEADERS_A: ${{ secrets.HEADERS_A }}
-          HEADERS_B: ${{ secrets.HEADERS_B }}
-          HEADERS_C: ${{ secrets.HEADERS_C }}
-          HEADERS_D: ${{ secrets.HEADERS_D }}
           INFO: ${{ secrets.INFO }}
           URL_A: ${{ secrets.URL_A }}
           URL_B: ${{ secrets.URL_B }}
