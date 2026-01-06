@@ -15,7 +15,7 @@ jobs:
 
       - name: Update file
         run: |
-          echo "更新时间：$(date -u)" > update.txt
+          echo "更新时间：$(date -u)" > update.json
 
       - name: Commit and push changes
         run: |
