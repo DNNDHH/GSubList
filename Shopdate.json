@@ -36660,6 +36660,46 @@
       0
     ],
     "prices": [
+      300
+    ],
+    "targetIds": [
+      8401940
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 14481,
+    "baseShopId": 14481,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 99,
+    "purchaseType": 19,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "赤い唐傘",
+    "detail": "★3コマンドコードへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1770368400,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       100
     ],
     "targetIds": [
@@ -133887,6 +133927,406 @@
   },
   {
     "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      100600
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001832,
+    "baseShopId": 4000020,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6600,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ネロ・クラウディウス〔ブライド〕",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1770368400,
+    "closedAt": 1770955199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      204000
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001833,
+    "baseShopId": 4000432,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6610,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "清少納言",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1770368400,
+    "closedAt": 1770955199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      405500
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001834,
+    "baseShopId": 4001003,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6620,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "アンドロメダ",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1770368400,
+    "closedAt": 1770955199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      504200
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001835,
+    "baseShopId": 4000315,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6630,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "紫式部",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1770368400,
+    "closedAt": 1770955199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      505800
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001836,
+    "baseShopId": 4001210,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6640,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "小野小町",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1770368400,
+    "closedAt": 1770955199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      702400
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001837,
+    "baseShopId": 4000051,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6650,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "謎のヒロインＸ〔オルタ〕",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1770368400,
+    "closedAt": 1770955199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      901100
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001838,
+    "baseShopId": 4000575,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6660,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "アムール〔カレン〕",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1770368400,
+    "closedAt": 1770955199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      901600
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001839,
+    "baseShopId": 4000862,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6670,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "女教皇ヨハンナ",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1770368400,
+    "closedAt": 1770955199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1001100
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001840,
+    "baseShopId": 4000739,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6680,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "マナナン・マク・リール",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1770368400,
+    "closedAt": 1770955199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      603200
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001847,
+    "baseShopId": 4000198,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6645,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "セミラミス",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1770368400,
+    "closedAt": 1770955199
+  },
+  {
+    "itemIds": [
       16
     ],
     "prices": [
@@ -178648,6 +179088,86 @@
     "imageId": 80828,
     "bgImageId": 0,
     "openedAt": 1767776400,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      60310011
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001230,
+    "baseShopId": 6001230,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 335,
+    "purchaseType": 14,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 11,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "簡易霊衣「メガネあり（第二再臨）」開放権",
+    "detail": "「小野小町古今抄」限定刑部姫（アサシン）簡易霊衣開放権へ交換",
+    "infoMessage": "簡易霊衣「メガネあり（第二再臨）」開放権を\n獲得できます。",
+    "warningMessage": "",
+    "imageId": 80829,
+    "bgImageId": 0,
+    "openedAt": 1770368400,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      500
+    ],
+    "targetIds": [
+      60310012
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001231,
+    "baseShopId": 6001231,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 340,
+    "purchaseType": 14,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 11,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "簡易霊衣「メガネあり（第三再臨）」開放権",
+    "detail": "「小野小町古今抄」限定刑部姫（アサシン）簡易霊衣開放権へ交換",
+    "infoMessage": "簡易霊衣「メガネあり（第三再臨）」開放権を\n獲得できます。",
+    "warningMessage": "",
+    "imageId": 80830,
+    "bgImageId": 0,
+    "openedAt": 1770368400,
     "closedAt": 1901199599
   },
   {
