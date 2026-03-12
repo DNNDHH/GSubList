@@ -135165,7 +135165,7 @@
     "imageId": 0,
     "bgImageId": 0,
     "openedAt": 1772787600,
-    "closedAt": 1773374399
+    "closedAt": 1774411199
   },
   {
     "itemIds": [
@@ -135455,6 +135455,46 @@
       10
     ],
     "targetIds": [
+      106600
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001856,
+    "baseShopId": 4001856,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6510,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ジャック・ド・モレー",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1773219600,
+    "closedAt": 1774411199
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
       305400
     ],
     "script": {},
@@ -135485,7 +135525,7 @@
     "imageId": 0,
     "bgImageId": 0,
     "openedAt": 1772787600,
-    "closedAt": 1773374399
+    "closedAt": 1774411199
   },
   {
     "itemIds": [
@@ -135525,7 +135565,7 @@
     "imageId": 0,
     "bgImageId": 0,
     "openedAt": 1772787600,
-    "closedAt": 1773374399
+    "closedAt": 1774411199
   },
   {
     "itemIds": [
@@ -135565,7 +135605,7 @@
     "imageId": 0,
     "bgImageId": 0,
     "openedAt": 1772787600,
-    "closedAt": 1773374399
+    "closedAt": 1774411199
   },
   {
     "itemIds": [
@@ -135605,7 +135645,7 @@
     "imageId": 0,
     "bgImageId": 0,
     "openedAt": 1772787600,
-    "closedAt": 1773374399
+    "closedAt": 1774411199
   },
   {
     "itemIds": [
@@ -180730,6 +180770,86 @@
     "imageId": 80830,
     "bgImageId": 0,
     "openedAt": 1770368400,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      8060501
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001232,
+    "baseShopId": 6001232,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 256,
+    "priority": 99,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "｢CBC2025｣限定 概念礼装交換ショップ",
+    "detail": "「CBC2025」限定概念礼装交換ショップを開放",
+    "infoMessage": "「CBC2025」限定概念礼装交換ショップを開放できます。",
+    "warningMessage": "",
+    "imageId": 80831,
+    "bgImageId": 0,
+    "openedAt": 1773219600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      2
+    ],
+    "targetIds": [
+      8401970
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001240,
+    "baseShopId": 6001240,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 100,
+    "purchaseType": 19,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "天使の剣",
+    "detail": "★4コマンドコードへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1773219600,
     "closedAt": 1901199599
   },
   {
@@ -632606,5 +632726,765 @@
     "bgImageId": 8060308,
     "openedAt": 1770973200,
     "closedAt": 1773374399
+  },
+  {
+    "itemIds": [
+      94154401
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9409070
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80604101,
+    "baseShopId": 80604101,
+    "eventId": 80604,
+    "slot": 0,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "トラジェクトリー・オブ・フェイト",
+    "detail": "【10枚の中から1枚だけ交換可能！】\nCBC2026限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2026限定\n概念礼装は、[FFFF00]10枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8060401,
+    "openedAt": 1773219600,
+    "closedAt": 1775015999
+  },
+  {
+    "itemIds": [
+      94154401
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9409080
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80604102,
+    "baseShopId": 80604101,
+    "eventId": 80604,
+    "slot": 0,
+    "flag": 0,
+    "priority": 11,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ファイブ・ラウンズ",
+    "detail": "【10枚の中から1枚だけ交換可能！】\nCBC2026限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2026限定\n概念礼装は、[FFFF00]10枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8060401,
+    "openedAt": 1773219600,
+    "closedAt": 1775015999
+  },
+  {
+    "itemIds": [
+      94154401
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9409090
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80604103,
+    "baseShopId": 80604101,
+    "eventId": 80604,
+    "slot": 0,
+    "flag": 0,
+    "priority": 12,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "プレゼント・フォー・ユー",
+    "detail": "【10枚の中から1枚だけ交換可能！】\nCBC2026限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2026限定\n概念礼装は、[FFFF00]10枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8060401,
+    "openedAt": 1773219600,
+    "closedAt": 1775015999
+  },
+  {
+    "itemIds": [
+      94154401
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9409100
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80604104,
+    "baseShopId": 80604101,
+    "eventId": 80604,
+    "slot": 0,
+    "flag": 0,
+    "priority": 13,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Studio Legale G",
+    "detail": "【10枚の中から1枚だけ交換可能！】\nCBC2026限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2026限定\n概念礼装は、[FFFF00]10枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8060401,
+    "openedAt": 1773219600,
+    "closedAt": 1775015999
+  },
+  {
+    "itemIds": [
+      94154401
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9409110
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80604105,
+    "baseShopId": 80604101,
+    "eventId": 80604,
+    "slot": 0,
+    "flag": 0,
+    "priority": 14,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "Breaching",
+    "detail": "【10枚の中から1枚だけ交換可能！】\nCBC2026限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2026限定\n概念礼装は、[FFFF00]10枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8060401,
+    "openedAt": 1773219600,
+    "closedAt": 1775015999
+  },
+  {
+    "itemIds": [
+      94154401
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9409120
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80604106,
+    "baseShopId": 80604101,
+    "eventId": 80604,
+    "slot": 0,
+    "flag": 0,
+    "priority": 15,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "フェアリー・ファーム",
+    "detail": "【10枚の中から1枚だけ交換可能！】\nCBC2026限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2026限定\n概念礼装は、[FFFF00]10枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8060401,
+    "openedAt": 1773219600,
+    "closedAt": 1775015999
+  },
+  {
+    "itemIds": [
+      94154401
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9409130
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80604107,
+    "baseShopId": 80604101,
+    "eventId": 80604,
+    "slot": 0,
+    "flag": 0,
+    "priority": 16,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "グランド・ギャザリング",
+    "detail": "【10枚の中から1枚だけ交換可能！】\nCBC2026限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2026限定\n概念礼装は、[FFFF00]10枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8060401,
+    "openedAt": 1773219600,
+    "closedAt": 1775015999
+  },
+  {
+    "itemIds": [
+      94154401
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9409140
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80604108,
+    "baseShopId": 80604101,
+    "eventId": 80604,
+    "slot": 0,
+    "flag": 0,
+    "priority": 17,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ライト・オブ・ナイト",
+    "detail": "【10枚の中から1枚だけ交換可能！】\nCBC2026限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2026限定\n概念礼装は、[FFFF00]10枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8060401,
+    "openedAt": 1773219600,
+    "closedAt": 1775015999
+  },
+  {
+    "itemIds": [
+      94154401
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9409150
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80604109,
+    "baseShopId": 80604101,
+    "eventId": 80604,
+    "slot": 0,
+    "flag": 0,
+    "priority": 18,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ドラバス～10th記念ライブ～",
+    "detail": "【10枚の中から1枚だけ交換可能！】\nCBC2026限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2026限定\n概念礼装は、[FFFF00]10枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8060401,
+    "openedAt": 1773219600,
+    "closedAt": 1775015999
+  },
+  {
+    "itemIds": [
+      94154401
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9409160
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80604110,
+    "baseShopId": 80604101,
+    "eventId": 80604,
+    "slot": 0,
+    "flag": 0,
+    "priority": 19,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "翠嶺の息吹",
+    "detail": "【10枚の中から1枚だけ交換可能！】\nCBC2026限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2026限定\n概念礼装は、[FFFF00]10枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8060401,
+    "openedAt": 1773219600,
+    "closedAt": 1775015999
+  },
+  {
+    "itemIds": [
+      94154402
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9408400
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80605001,
+    "baseShopId": 80520101,
+    "eventId": 80605,
+    "slot": 0,
+    "flag": 0,
+    "priority": 10,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "探偵クリスト～未来邂逅編～",
+    "detail": "【9枚の中から1枚だけ交換可能！】\nCBC2025限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2025限定\n概念礼装は、[FFFF00]9枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8052002,
+    "openedAt": 1773219600,
+    "closedAt": 1773219600
+  },
+  {
+    "itemIds": [
+      94154402
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9408410
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80605002,
+    "baseShopId": 80520101,
+    "eventId": 80605,
+    "slot": 0,
+    "flag": 0,
+    "priority": 11,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "コール・ラヴァ",
+    "detail": "【9枚の中から1枚だけ交換可能！】\nCBC2025限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2025限定\n概念礼装は、[FFFF00]9枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8052002,
+    "openedAt": 1773219600,
+    "closedAt": 1773219600
+  },
+  {
+    "itemIds": [
+      94154402
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9408420
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80605003,
+    "baseShopId": 80520101,
+    "eventId": 80605,
+    "slot": 0,
+    "flag": 0,
+    "priority": 12,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ウェザー・リポート＜Ｐ＞",
+    "detail": "【9枚の中から1枚だけ交換可能！】\nCBC2025限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2025限定\n概念礼装は、[FFFF00]9枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8052002,
+    "openedAt": 1773219600,
+    "closedAt": 1773219600
+  },
+  {
+    "itemIds": [
+      94154402
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9408430
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80605004,
+    "baseShopId": 80520101,
+    "eventId": 80605,
+    "slot": 0,
+    "flag": 0,
+    "priority": 13,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ブラザー・スペシャル",
+    "detail": "【9枚の中から1枚だけ交換可能！】\nCBC2025限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2025限定\n概念礼装は、[FFFF00]9枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8052002,
+    "openedAt": 1773219600,
+    "closedAt": 1773219600
+  },
+  {
+    "itemIds": [
+      94154402
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9408440
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80605005,
+    "baseShopId": 80520101,
+    "eventId": 80605,
+    "slot": 0,
+    "flag": 0,
+    "priority": 14,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "おむすび・れむなんと",
+    "detail": "【9枚の中から1枚だけ交換可能！】\nCBC2025限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2025限定\n概念礼装は、[FFFF00]9枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8052002,
+    "openedAt": 1773219600,
+    "closedAt": 1773219600
+  },
+  {
+    "itemIds": [
+      94154402
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9408450
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80605006,
+    "baseShopId": 80520101,
+    "eventId": 80605,
+    "slot": 0,
+    "flag": 0,
+    "priority": 15,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "カルデア・エージェンツ",
+    "detail": "【9枚の中から1枚だけ交換可能！】\nCBC2025限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2025限定\n概念礼装は、[FFFF00]9枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8052002,
+    "openedAt": 1773219600,
+    "closedAt": 1773219600
+  },
+  {
+    "itemIds": [
+      94154402
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9408460
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80605007,
+    "baseShopId": 80520101,
+    "eventId": 80605,
+    "slot": 0,
+    "flag": 0,
+    "priority": 16,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "とある神父の晩餐会",
+    "detail": "【9枚の中から1枚だけ交換可能！】\nCBC2025限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2025限定\n概念礼装は、[FFFF00]9枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8052002,
+    "openedAt": 1773219600,
+    "closedAt": 1773219600
+  },
+  {
+    "itemIds": [
+      94154402
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9408470
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80605008,
+    "baseShopId": 80520101,
+    "eventId": 80605,
+    "slot": 0,
+    "flag": 0,
+    "priority": 17,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "デリバリー・ヒーリング",
+    "detail": "【9枚の中から1枚だけ交換可能！】\nCBC2025限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2025限定\n概念礼装は、[FFFF00]9枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8052002,
+    "openedAt": 1773219600,
+    "closedAt": 1773219600
+  },
+  {
+    "itemIds": [
+      94154402
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9408480
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80605009,
+    "baseShopId": 80520101,
+    "eventId": 80605,
+    "slot": 0,
+    "flag": 0,
+    "priority": 18,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "弓術談義",
+    "detail": "【9枚の中から1枚だけ交換可能！】\nCBC2025限定概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "CBC2025限定\n概念礼装は、[FFFF00]9枚の中から1枚だけ[-]交換可能です。\n\n一度交換したら、他の概念礼装に変更できません。\n\n『{0}』へ交換しますか？",
+    "imageId": 0,
+    "bgImageId": 8052002,
+    "openedAt": 1773219600,
+    "closedAt": 1773219600
   }
 ]
