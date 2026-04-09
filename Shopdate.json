@@ -18587,6 +18587,166 @@
     "freeShopCondMessage": "",
     "hideWarningMessageCondId": 0,
     "freeShopReleaseDate": 0,
+    "id": 11483,
+    "baseShopId": 11483,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2304,
+    "priority": 38,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】英霊結晶・流星のフォウくん",
+    "detail": "【3400万DL突破記念】\n★4ALLのHPアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80832,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      300
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 11484,
+    "baseShopId": 11484,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2304,
+    "priority": 39,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】英霊結晶・日輪のフォウくん",
+    "detail": "【3400万DL突破記念】\n★4ALLのATKアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80833,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9570300
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 11485,
+    "baseShopId": 11485,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 47,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】英霊結晶・星のフォウくん",
+    "detail": "【3400万DL突破記念】\n★3ALLのHPアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80841,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      9670300
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 11486,
+    "baseShopId": 11486,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 48,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 20,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】英霊結晶・太陽のフォウくん",
+    "detail": "【3400万DL突破記念】\n★3ALLのATKアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80842,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      300
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
     "id": 11487,
     "baseShopId": 11487,
     "eventId": 0,
@@ -37222,6 +37382,126 @@
       0
     ],
     "prices": [
+      40
+    ],
+    "targetIds": [
+      14212
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 14487,
+    "baseShopId": 14487,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 44,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】★5経験値カードセット",
+    "detail": "【3400万DL突破記念】\n★5ALLの経験値カード10枚へ交換",
+    "infoMessage": "「経験値カード」のセットと交換できます。",
+    "warningMessage": "",
+    "imageId": 80838,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      20
+    ],
+    "targetIds": [
+      4001
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 14488,
+    "baseShopId": 14488,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 45,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】呼符",
+    "detail": "【3400万DL突破記念】\n聖晶石召喚1回可能な呼符1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80839,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      15
+    ],
+    "targetIds": [
+      11011
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 14489,
+    "baseShopId": 14489,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 46,
+    "purchaseType": 5,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】★4経験値カードセット",
+    "detail": "【3400万DL突破記念】\n★4ALLの経験値カード10枚へ交換",
+    "infoMessage": "「経験値カード」のセットと交換できます。",
+    "warningMessage": "",
+    "imageId": 80840,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       20
     ],
     "targetIds": [
@@ -54782,6 +55062,206 @@
       0
     ],
     "prices": [
+      200
+    ],
+    "targetIds": [
+      2000
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 18438,
+    "baseShopId": 18438,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2304,
+    "priority": 40,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 2,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】獣の足跡",
+    "detail": "【3400万DL突破記念】\n【コマンドカード強化素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80834,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5000
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 18439,
+    "baseShopId": 18439,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 41,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】クイック・コード・オープナー",
+    "detail": "【3400万DL突破記念】\n【コマンドコードスロット開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80835,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5001
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 18440,
+    "baseShopId": 18440,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 42,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】アーツ・コード・オープナー",
+    "detail": "【3400万DL突破記念】\n【コマンドコードスロット開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80836,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      100
+    ],
+    "targetIds": [
+      5002
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 18441,
+    "baseShopId": 18441,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 43,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】バスター・コード・オープナー",
+    "detail": "【3400万DL突破記念】\n【コマンドコードスロット開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80837,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      94138219
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 18442,
+    "baseShopId": 18442,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 50,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 30,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】【使用期限付アイテム】星見のティーポット",
+    "detail": "【3400万DL突破記念】\n【絆ブーストアイテム】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80843,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
       10
     ],
     "targetIds": [
@@ -54976,6 +55456,46 @@
     "bgImageId": 0,
     "openedAt": 1774969200,
     "closedAt": 1777561199
+  },
+  {
+    "itemIds": [
+      0
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      94155501
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 18448,
+    "baseShopId": 18448,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 49,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 4,
+    "shopType": 2,
+    "limitNum": 10,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】【使用期限付コンティニューアイテム】霊脈石",
+    "detail": "【3400万DL突破記念】\n【コンティニューアイテム】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80849,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
   },
   {
     "itemIds": [
@@ -136529,6 +137049,206 @@
   },
   {
     "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      901400
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001869,
+    "baseShopId": 4000801,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6370,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "スカサハ=スカディ",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1100900
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001870,
+    "baseShopId": 4000397,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6380,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "スペース・イシュタル",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1001000
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001871,
+    "baseShopId": 4000543,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6390,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "蘆屋道満",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1001600
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001872,
+    "baseShopId": 4000892,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6400,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ラーヴァ／ティアマト",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      2500400
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001873,
+    "baseShopId": 4000410,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6410,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "楊貴妃",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
       16
     ],
     "prices": [
@@ -181675,7 +182395,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 99,
+    "priority": 335,
     "purchaseType": 5,
     "setNum": 1,
     "payType": 10,
@@ -181995,7 +182715,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 0,
-    "priority": 100,
+    "priority": 336,
     "purchaseType": 19,
     "setNum": 1,
     "payType": 10,
@@ -182011,6 +182731,206 @@
     "bgImageId": 0,
     "openedAt": 1773219600,
     "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      2
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001241,
+    "baseShopId": 6001241,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 46,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】英霊結晶・流星のフォウくん",
+    "detail": "【3400万DL突破記念】\n★4ALLのHPアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80844,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      2
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001242,
+    "baseShopId": 6001242,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 47,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】英霊結晶・日輪のフォウくん",
+    "detail": "【3400万DL突破記念】\n★4ALLのATKアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80845,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      2000
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001243,
+    "baseShopId": 6001243,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 48,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 6,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】獣の足跡",
+    "detail": "【3400万DL突破記念】\n【コマンドカード強化素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80846,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001244,
+    "baseShopId": 6001244,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 49,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】コード・リムーバー",
+    "detail": "【3400万DL突破記念】\n【コマンドコードスロット削除アイテム】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80847,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001245,
+    "baseShopId": 6001245,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 2048,
+    "priority": 50,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "【期間限定】フレンドポイント",
+    "detail": "【3400万DL突破記念】\nフレンドポイント20,000へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 80848,
+    "bgImageId": 0,
+    "openedAt": 1775638800,
+    "closedAt": 1776830399
   },
   {
     "itemIds": [
