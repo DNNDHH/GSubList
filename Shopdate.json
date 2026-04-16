@@ -137249,6 +137249,46 @@
   },
   {
     "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      200200
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001874,
+    "baseShopId": 4000029,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6360,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ギルガメッシュ",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1776243600,
+    "closedAt": 1777435199
+  },
+  {
+    "itemIds": [
       16
     ],
     "prices": [
@@ -183211,6 +183251,86 @@
     "bgImageId": 0,
     "openedAt": 1776178800,
     "closedAt": 1778770799
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9311710
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001253,
+    "baseShopId": 6001253,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 256,
+    "priority": 99,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "ヴィジター",
+    "detail": "『TVアニメ「Fate/strange Fake」放送記念\nキャンペーン』限定★4概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1776243600,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9311720
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001254,
+    "baseShopId": 6001254,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 256,
+    "priority": 100,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "名も無き兵士",
+    "detail": "『TVアニメ「Fate/strange Fake」放送記念\nキャンペーン第2弾』限定★4概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1776243600,
+    "closedAt": 1901199599
   },
   {
     "itemIds": [
