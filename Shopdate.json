@@ -138049,6 +138049,86 @@
   },
   {
     "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      202000
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001880,
+    "baseShopId": 4000024,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6290,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "イシュタル",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778058000,
+    "closedAt": 1778903999
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      205000
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001881,
+    "baseShopId": 4000966,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6300,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "プトレマイオス",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778058000,
+    "closedAt": 1778903999
+  },
+  {
+    "itemIds": [
       16
     ],
     "prices": [
@@ -639446,6 +639526,46 @@
     "bgImageId": 80606,
     "openedAt": 1773910800,
     "closedAt": 1776311999
+  },
+  {
+    "itemIds": [
+      94155603
+    ],
+    "prices": [
+      150
+    ],
+    "targetIds": [
+      50570011
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80608001,
+    "baseShopId": 80608001,
+    "eventId": 80608,
+    "slot": 1,
+    "flag": 2,
+    "priority": 10,
+    "purchaseType": 14,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "簡易霊衣「ストレンジドレス」開放権",
+    "detail": "フランチェスカ・プレラーティ簡易霊衣\n「ストレンジドレス」開放権へ交換",
+    "infoMessage": "簡易霊衣「ストレンジドレス」開放権を\n獲得できます。",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80608,
+    "openedAt": 1777114800,
+    "closedAt": 1779508799
   },
   {
     "itemIds": [
