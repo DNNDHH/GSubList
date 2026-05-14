@@ -138070,7 +138070,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 0,
-    "priority": 6290,
+    "priority": 6240,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 9,
@@ -138085,7 +138085,7 @@
     "imageId": 0,
     "bgImageId": 0,
     "openedAt": 1778058000,
-    "closedAt": 1778903999
+    "closedAt": 1779249599
   },
   {
     "itemIds": [
@@ -138126,6 +138126,366 @@
     "bgImageId": 0,
     "openedAt": 1778058000,
     "closedAt": 1778903999
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      303200
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001883,
+    "baseShopId": 4000150,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6250,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "エレシュキガル",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778662800,
+    "closedAt": 1779249599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      500800
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001884,
+    "baseShopId": 4000027,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6260,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "マーリン",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778662800,
+    "closedAt": 1779249599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      602500
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001885,
+    "baseShopId": 4000044,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6270,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "“山の翁”",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778662800,
+    "closedAt": 1779249599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1100300
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001886,
+    "baseShopId": 4000021,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6280,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ジャンヌ･ダルク〔オルタ〕",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778662800,
+    "closedAt": 1779249599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      201100
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001887,
+    "baseShopId": 4001887,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 991500,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ニコラ・テスラ",
+    "detail": "★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778662800,
+    "closedAt": 1779249599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      702000
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001888,
+    "baseShopId": 4001888,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 992700,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "クー・フーリン〔オルタ〕",
+    "detail": "★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778662800,
+    "closedAt": 1779249599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      401300
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001889,
+    "baseShopId": 4001889,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 991900,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "女王メイヴ",
+    "detail": "★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778662800,
+    "closedAt": 1779249599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      302000
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001890,
+    "baseShopId": 4001890,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 991700,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "アルトリア・ペンドラゴン〔ランサー〕",
+    "detail": "★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778662800,
+    "closedAt": 1779249599
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      401800
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001891,
+    "baseShopId": 4001891,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 992001,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ケツァル・コアトル",
+    "detail": "★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778662800,
+    "closedAt": 1779249599
   },
   {
     "itemIds": [
@@ -184115,7 +184475,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 99,
+    "priority": 333,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 10,
@@ -184155,7 +184515,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 100,
+    "priority": 334,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 10,
@@ -184171,6 +184531,286 @@
     "bgImageId": 0,
     "openedAt": 1776243600,
     "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001255,
+    "baseShopId": 6001255,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 101,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "伝承結晶",
+    "detail": "【スキル強化素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778770800,
+    "closedAt": 1781449199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      1000
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001256,
+    "baseShopId": 6001256,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 102,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "カルデアの夢火",
+    "detail": "【絆上限開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778770800,
+    "closedAt": 1781449199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      2
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001257,
+    "baseShopId": 6001257,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 103,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・流星のフォウくん",
+    "detail": "★4ALLのHPアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778770800,
+    "closedAt": 1781449199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      2
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001258,
+    "baseShopId": 6001258,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 104,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・日輪のフォウくん",
+    "detail": "★4ALLのATKアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778770800,
+    "closedAt": 1781449199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      2000
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001259,
+    "baseShopId": 6001259,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 105,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 6,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "獣の足跡",
+    "detail": "【コマンドカード強化素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 2000,
+    "bgImageId": 0,
+    "openedAt": 1778770800,
+    "closedAt": 1781449199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001260,
+    "baseShopId": 6001260,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 106,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "コード・リムーバー",
+    "detail": "【コマンドコードスロット削除アイテム】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778770800,
+    "closedAt": 1781449199
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001261,
+    "baseShopId": 6001261,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 107,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "フレンドポイント",
+    "detail": "フレンドポイント20,000へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1778770800,
+    "closedAt": 1781449199
   },
   {
     "itemIds": [
