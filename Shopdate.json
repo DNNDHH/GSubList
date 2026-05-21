@@ -138489,6 +138489,726 @@
   },
   {
     "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      101700
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001892,
+    "baseShopId": 4000028,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6080,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "宮本武蔵",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      103300
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001893,
+    "baseShopId": 4000248,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6090,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "シグルド",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      104900
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001894,
+    "baseShopId": 4000548,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6100,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "千子村正",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      203800
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001895,
+    "baseShopId": 4000404,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6110,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "超人オリオン",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      304200
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001896,
+    "baseShopId": 4000451,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6120,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ロムルス＝クィリヌス",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      304800
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001897,
+    "baseShopId": 4000652,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6130,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "メリュジーヌ",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      402800
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001898,
+    "baseShopId": 4000228,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6140,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "イヴァン雷帝",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      503900
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001899,
+    "baseShopId": 4000252,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6150,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "スカサハ=スカディ",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      504500
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001900,
+    "baseShopId": 4000503,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6160,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "アルトリア・キャスター",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      604700
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001901,
+    "baseShopId": 4000859,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6170,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "テスカトリポカ",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      703300
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001902,
+    "baseShopId": 4000352,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6180,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "アルジュナ〔オルタ〕",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      704000
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001903,
+    "baseShopId": 4000643,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6190,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "モルガン",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      900500
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001904,
+    "baseShopId": 4000083,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6200,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "シャーロック・ホームズ",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      900600
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001905,
+    "baseShopId": 4000287,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6210,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "始皇帝",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      2501100
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001906,
+    "baseShopId": 4000860,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6220,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ククルカン",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      2800100
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001907,
+    "baseShopId": 4000657,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 6230,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "オベロン",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      1000800
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001908,
+    "baseShopId": 4001908,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 992900,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "シトナイ",
+    "detail": "★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      603600
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4001909,
+    "baseShopId": 4001909,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 992450,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "李書文",
+    "detail": "★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1779267600,
+    "closedAt": 1779854399
+  },
+  {
+    "itemIds": [
       16
     ],
     "prices": [
