@@ -221542,6 +221542,86 @@
       2
     ],
     "targetIds": [
+      6564
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 12000123,
+    "baseShopId": 12000123,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 226,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 11,
+    "shopType": 13,
+    "limitNum": 100,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "創生の真珠",
+    "detail": "【スキル強化＆霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1781082000,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      46
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      6565
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 12000124,
+    "baseShopId": 12000124,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 322,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 11,
+    "shopType": 13,
+    "limitNum": 100,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "黎溟琥珀",
+    "detail": "【スキル強化＆霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1781082000,
+    "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      46
+    ],
+    "prices": [
+      2
+    ],
+    "targetIds": [
       6502
     ],
     "script": {},
