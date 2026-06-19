@@ -73,7 +73,8 @@ headers_D = {
   'sec-ch-ua-mobile': "?0",
   'sec-ch-ua-platform': "\"Windows\"",
 }
-res = s.get(url_C, headers=headers_D, verify=False)
+#res = s.get(url_C, headers=headers_D, verify=False)
+res = s.get(url_C, verify=False)
 data = res.json()
 
 with open("update.json", 'w', encoding='utf-8') as f:
@@ -82,7 +83,8 @@ print("4")
 
 
 url_D = os.environ.get('URL_D')
-res = s.get(url_D, headers=headers_D, verify=False)
+#res = s.get(url_D, headers=headers_D, verify=False)
+res = s.get(url_D, verify=False)
 data = res.json()
 
 with open("Shopdate.json", 'w', encoding='utf-8') as f:
