@@ -39,6 +39,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add update.json Shopdate.json tst.json
+          git add update.json Shopdate.json 
           git commit -m "chore: $(date -u) auto update files" || echo "No changes to commit"
           git push
