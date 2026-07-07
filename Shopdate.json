@@ -650574,6 +650574,366 @@
       94158003
     ],
     "prices": [
+      50
+    ],
+    "targetIds": [
+      94158005
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80612002,
+    "baseShopId": 80612002,
+    "eventId": 80612,
+    "slot": 1,
+    "flag": 0,
+    "priority": 20,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "アッドリュック",
+    "detail": "グレイ･リリィ【霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80612,
+    "openedAt": 1782903600,
+    "closedAt": 1785297599
+  },
+  {
+    "itemIds": [
+      94158002
+    ],
+    "prices": [
+      50
+    ],
+    "targetIds": [
+      94158005
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80612003,
+    "baseShopId": 80612003,
+    "eventId": 80612,
+    "slot": 1,
+    "flag": 0,
+    "priority": 30,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "アッドリュック",
+    "detail": "グレイ･リリィ【霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80612,
+    "openedAt": 1782903600,
+    "closedAt": 1785297599
+  },
+  {
+    "itemIds": [
+      94158001
+    ],
+    "prices": [
+      50
+    ],
+    "targetIds": [
+      94158005
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80612004,
+    "baseShopId": 80612004,
+    "eventId": 80612,
+    "slot": 1,
+    "flag": 0,
+    "priority": 40,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "アッドリュック",
+    "detail": "グレイ･リリィ【霊基再臨素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80612,
+    "openedAt": 1782903600,
+    "closedAt": 1785297599
+  },
+  {
+    "itemIds": [
+      94158003
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      10670001
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80612005,
+    "baseShopId": 80612005,
+    "eventId": 80612,
+    "slot": 1,
+    "flag": 0,
+    "priority": 50,
+    "purchaseType": 1,
+    "setNum": 10,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 16,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "サーヴァントコイン(グレイ･リリィ(セイバー))",
+    "detail": "サーヴァントコイン10個へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80612,
+    "openedAt": 1782903600,
+    "closedAt": 1785297599
+  },
+  {
+    "itemIds": [
+      94158002
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      10670001
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80612006,
+    "baseShopId": 80612006,
+    "eventId": 80612,
+    "slot": 1,
+    "flag": 0,
+    "priority": 60,
+    "purchaseType": 1,
+    "setNum": 10,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 16,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "サーヴァントコイン(グレイ･リリィ(セイバー))",
+    "detail": "サーヴァントコイン10個へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80612,
+    "openedAt": 1782903600,
+    "closedAt": 1785297599
+  },
+  {
+    "itemIds": [
+      94158001
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      10670001
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80612007,
+    "baseShopId": 80612007,
+    "eventId": 80612,
+    "slot": 1,
+    "flag": 0,
+    "priority": 70,
+    "purchaseType": 1,
+    "setNum": 10,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 16,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "サーヴァントコイン(グレイ･リリィ(セイバー))",
+    "detail": "サーヴァントコイン10個へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80612,
+    "openedAt": 1782903600,
+    "closedAt": 1785297599
+  },
+  {
+    "itemIds": [
+      94158003
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      30630001
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80612008,
+    "baseShopId": 80612008,
+    "eventId": 80612,
+    "slot": 1,
+    "flag": 0,
+    "priority": 80,
+    "purchaseType": 1,
+    "setNum": 10,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 16,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "サーヴァントコイン(グレイ･リリィ(ランサー))",
+    "detail": "サーヴァントコイン10個へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80612,
+    "openedAt": 1782903600,
+    "closedAt": 1785297599
+  },
+  {
+    "itemIds": [
+      94158002
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      30630001
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80612009,
+    "baseShopId": 80612009,
+    "eventId": 80612,
+    "slot": 1,
+    "flag": 0,
+    "priority": 90,
+    "purchaseType": 1,
+    "setNum": 10,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 16,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "サーヴァントコイン(グレイ･リリィ(ランサー))",
+    "detail": "サーヴァントコイン10個へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80612,
+    "openedAt": 1782903600,
+    "closedAt": 1785297599
+  },
+  {
+    "itemIds": [
+      94158001
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      30630001
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 80612010,
+    "baseShopId": 80612010,
+    "eventId": 80612,
+    "slot": 1,
+    "flag": 0,
+    "priority": 100,
+    "purchaseType": 1,
+    "setNum": 10,
+    "payType": 6,
+    "shopType": 1,
+    "limitNum": 16,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "サーヴァントコイン(グレイ･リリィ(ランサー))",
+    "detail": "サーヴァントコイン10個へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 80612,
+    "openedAt": 1782903600,
+    "closedAt": 1785297599
+  },
+  {
+    "itemIds": [
+      94158003
+    ],
+    "prices": [
       150
     ],
     "targetIds": [
