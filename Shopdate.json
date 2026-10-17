@@ -146834,7 +146834,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 0,
-    "priority": 5040,
+    "priority": 4830,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 9,
@@ -146849,7 +146849,7 @@
     "imageId": 0,
     "bgImageId": 0,
     "openedAt": 1791363600,
-    "closedAt": 1792727999
+    "closedAt": 1793764799
   },
   {
     "itemIds": [
@@ -148489,6 +148489,126 @@
     "imageId": 0,
     "bgImageId": 0,
     "openedAt": 1791968400,
+    "closedAt": 1793764799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      101700
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4002066,
+    "baseShopId": 4000028,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 4820,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "宮本武蔵",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1792141200,
+    "closedAt": 1793764799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      200200
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4002067,
+    "baseShopId": 4000029,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 4810,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "ギルガメッシュ",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1792314000,
+    "closedAt": 1793764799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      603600
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4002068,
+    "baseShopId": 4002068,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 992450,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 0,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "李書文",
+    "detail": "★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1792659600,
     "closedAt": 1793764799
   },
   {
