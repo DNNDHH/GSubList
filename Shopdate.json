@@ -150903,9 +150903,9 @@
     ],
     "script": {
       "freeShopCondId": 20099417,
-      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』",
       "freeShopReleaseDate": 1728039600,
-      "hideWarningMessageCondId": 20099417
+      "hideWarningMessageCondId": 20099417,
+      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -151228,9 +151228,9 @@
     ],
     "script": {
       "freeShopCondId": 20088415,
-      "freeShopCondMessage": "『「第一特異点」クリア』",
       "freeShopReleaseDate": 1690707600,
-      "hideWarningMessageCondId": 20088415
+      "hideWarningMessageCondId": 20088415,
+      "freeShopCondMessage": "『「第一特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -151313,9 +151313,9 @@
     ],
     "script": {
       "freeShopCondId": 20097618,
-      "freeShopCondMessage": "『「第五特異点」クリア』",
       "freeShopReleaseDate": 1718096400,
-      "hideWarningMessageCondId": 20097618
+      "hideWarningMessageCondId": 20097618,
+      "freeShopCondMessage": "『「第五特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -151358,9 +151358,9 @@
     ],
     "script": {
       "freeShopCondId": 20060501,
-      "freeShopCondMessage": "『「第五特異点」クリア』",
       "freeShopReleaseDate": 1642582800,
-      "hideWarningMessageCondId": 20060501
+      "hideWarningMessageCondId": 20060501,
+      "freeShopCondMessage": "『「第五特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -151603,9 +151603,9 @@
     ],
     "script": {
       "freeShopCondId": 20074509,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1678525200,
-      "hideWarningMessageCondId": 20074509
+      "hideWarningMessageCondId": 20074509,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -151728,9 +151728,9 @@
     ],
     "script": {
       "freeShopCondId": 20088414,
-      "freeShopCondMessage": "『「第三特異点」クリア』",
       "freeShopReleaseDate": 1690707600,
-      "hideWarningMessageCondId": 20088414
+      "hideWarningMessageCondId": 20088414,
+      "freeShopCondMessage": "『「第三特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -152453,9 +152453,9 @@
     ],
     "script": {
       "freeShopCondId": 20070301,
-      "freeShopCondMessage": "『「Lostbelt No.2」クリア』",
       "freeShopReleaseDate": 1648630800,
-      "hideWarningMessageCondId": 20070301
+      "hideWarningMessageCondId": 20070301,
+      "freeShopCondMessage": "『「Lostbelt No.2」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -152658,9 +152658,9 @@
     ],
     "script": {
       "freeShopCondId": 20088413,
-      "freeShopCondMessage": "『「第二特異点」クリア』",
       "freeShopReleaseDate": 1690707600,
-      "hideWarningMessageCondId": 20088413
+      "hideWarningMessageCondId": 20088413,
+      "freeShopCondMessage": "『「第二特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -152903,9 +152903,9 @@
     ],
     "script": {
       "freeShopCondId": 20080603,
-      "freeShopCondMessage": "『「亜種特異点Ⅲ」クリア』",
       "freeShopReleaseDate": 1669453200,
-      "hideWarningMessageCondId": 20080603
+      "hideWarningMessageCondId": 20080603,
+      "freeShopCondMessage": "『「亜種特異点Ⅲ」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -153268,9 +153268,9 @@
     ],
     "script": {
       "freeShopCondId": 20088412,
-      "freeShopCondMessage": "『「特異点F」クリア』",
       "freeShopReleaseDate": 1690707600,
-      "hideWarningMessageCondId": 20088412
+      "hideWarningMessageCondId": 20088412,
+      "freeShopCondMessage": "『「特異点F」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -153913,9 +153913,9 @@
     ],
     "script": {
       "freeShopCondId": 20074509,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1677229200,
-      "hideWarningMessageCondId": 20074509
+      "hideWarningMessageCondId": 20074509,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -154198,9 +154198,9 @@
     ],
     "script": {
       "freeShopCondId": 20074509,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1679302800,
-      "hideWarningMessageCondId": 20074509
+      "hideWarningMessageCondId": 20074509,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -154683,9 +154683,9 @@
     ],
     "script": {
       "freeShopCondId": 20065802,
-      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』",
       "freeShopReleaseDate": 1654851600,
-      "hideWarningMessageCondId": 20065802
+      "hideWarningMessageCondId": 20065802,
+      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -154928,9 +154928,9 @@
     ],
     "script": {
       "freeShopCondId": 20060509,
-      "freeShopCondMessage": "『「深海電脳楽土 SE.RA.PH」終幕クリア』",
       "freeShopReleaseDate": 1671008400,
-      "hideWarningMessageCondId": 20060509
+      "hideWarningMessageCondId": 20060509,
+      "freeShopCondMessage": "『「深海電脳楽土 SE.RA.PH」終幕クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -157893,9 +157893,9 @@
     ],
     "script": {
       "freeShopCondId": 20060504,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1728464400,
-      "hideWarningMessageCondId": 20060504
+      "hideWarningMessageCondId": 20060504,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -158899,9 +158899,9 @@
     ],
     "script": {
       "freeShopCondId": 20060502,
-      "freeShopCondMessage": "『「第四特異点」クリア』",
       "freeShopReleaseDate": 1642582800,
-      "hideWarningMessageCondId": 20060502
+      "hideWarningMessageCondId": 20060502,
+      "freeShopCondMessage": "『「第四特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -160424,9 +160424,9 @@
     ],
     "script": {
       "freeShopCondId": 20088411,
-      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』",
       "freeShopReleaseDate": 1690707600,
-      "hideWarningMessageCondId": 20088411
+      "hideWarningMessageCondId": 20088411,
+      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -160709,9 +160709,9 @@
     ],
     "script": {
       "freeShopCondId": 20074509,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1679302800,
-      "hideWarningMessageCondId": 20074509
+      "hideWarningMessageCondId": 20074509,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -161274,9 +161274,9 @@
     ],
     "script": {
       "freeShopCondId": 20074509,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1672498800,
-      "hideWarningMessageCondId": 20074509
+      "hideWarningMessageCondId": 20074509,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -161840,9 +161840,9 @@
     ],
     "script": {
       "freeShopCondId": 20060503,
-      "freeShopCondMessage": "『「第七特異点」クリア』",
       "freeShopReleaseDate": 1643187600,
-      "hideWarningMessageCondId": 20060503
+      "hideWarningMessageCondId": 20060503,
+      "freeShopCondMessage": "『「第七特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -161885,9 +161885,9 @@
     ],
     "script": {
       "freeShopCondId": 20088410,
-      "freeShopCondMessage": "『「第五特異点」クリア』",
       "freeShopReleaseDate": 1690707600,
-      "hideWarningMessageCondId": 20088410
+      "hideWarningMessageCondId": 20088410,
+      "freeShopCondMessage": "『「第五特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -162410,9 +162410,9 @@
     ],
     "script": {
       "freeShopCondId": 20071901,
-      "freeShopCondMessage": "『「Lostbelt No.3」クリア』",
       "freeShopReleaseDate": 1657702800,
-      "hideWarningMessageCondId": 20071901
+      "hideWarningMessageCondId": 20071901,
+      "freeShopCondMessage": "『「Lostbelt No.3」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -162695,9 +162695,9 @@
     ],
     "script": {
       "freeShopCondId": 20088409,
-      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』",
       "freeShopReleaseDate": 1690707600,
-      "hideWarningMessageCondId": 20088409
+      "hideWarningMessageCondId": 20088409,
+      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -163224,9 +163224,9 @@
     ],
     "script": {
       "freeShopCondId": 20060504,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1645606800,
-      "hideWarningMessageCondId": 20060504
+      "hideWarningMessageCondId": 20060504,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -163949,9 +163949,9 @@
     ],
     "script": {
       "freeShopCondId": 20060501,
-      "freeShopCondMessage": "『「第五特異点」クリア』",
       "freeShopReleaseDate": 1650445200,
-      "hideWarningMessageCondId": 20060501
+      "hideWarningMessageCondId": 20060501,
+      "freeShopCondMessage": "『「第五特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -164274,9 +164274,9 @@
     ],
     "script": {
       "freeShopCondId": 20075401,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1660888800,
-      "hideWarningMessageCondId": 20075401
+      "hideWarningMessageCondId": 20075401,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -164319,9 +164319,9 @@
     ],
     "script": {
       "freeShopCondId": 20088408,
-      "freeShopCondMessage": "『「Lostbelt No.3」クリア』",
       "freeShopReleaseDate": 1690707600,
-      "hideWarningMessageCondId": 20088408
+      "hideWarningMessageCondId": 20088408,
+      "freeShopCondMessage": "『「Lostbelt No.3」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -165284,9 +165284,9 @@
     ],
     "script": {
       "freeShopCondId": 20075402,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1660888800,
-      "hideWarningMessageCondId": 20075402
+      "hideWarningMessageCondId": 20075402,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -165329,9 +165329,9 @@
     ],
     "script": {
       "freeShopCondId": 20088407,
-      "freeShopCondMessage": "『「第四特異点」クリア』",
       "freeShopReleaseDate": 1690707600,
-      "hideWarningMessageCondId": 20088407
+      "hideWarningMessageCondId": 20088407,
+      "freeShopCondMessage": "『「第四特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -166334,9 +166334,9 @@
     ],
     "script": {
       "freeShopCondId": 20075602,
-      "freeShopCondMessage": "『「第五特異点」クリア』",
       "freeShopReleaseDate": 1668243600,
-      "hideWarningMessageCondId": 20075602
+      "hideWarningMessageCondId": 20075602,
+      "freeShopCondMessage": "『「第五特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -166379,9 +166379,9 @@
     ],
     "script": {
       "freeShopCondId": 20060505,
-      "freeShopCondMessage": "『「第二特異点」クリア』",
       "freeShopReleaseDate": 1647421200,
-      "hideWarningMessageCondId": 20060505
+      "hideWarningMessageCondId": 20060505,
+      "freeShopCondMessage": "『「第二特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -166744,9 +166744,9 @@
     ],
     "script": {
       "freeShopCondId": 20088406,
-      "freeShopCondMessage": "『「第七特異点」クリア』",
       "freeShopReleaseDate": 1690707600,
-      "hideWarningMessageCondId": 20088406
+      "hideWarningMessageCondId": 20088406,
+      "freeShopCondMessage": "『「第七特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -166829,9 +166829,9 @@
     ],
     "script": {
       "freeShopCondId": 20074509,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1676883600,
-      "hideWarningMessageCondId": 20074509
+      "hideWarningMessageCondId": 20074509,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -167154,9 +167154,9 @@
     ],
     "script": {
       "freeShopCondId": 20072801,
-      "freeShopCondMessage": "『「亜種特異点Ⅳ」クリア』",
       "freeShopReleaseDate": 1657098000,
-      "hideWarningMessageCondId": 20072801
+      "hideWarningMessageCondId": 20072801,
+      "freeShopCondMessage": "『「亜種特異点Ⅳ」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -167479,9 +167479,9 @@
     ],
     "script": {
       "freeShopCondId": 20075601,
-      "freeShopCondMessage": "『「第四特異点」クリア』",
       "freeShopReleaseDate": 1667725200,
-      "hideWarningMessageCondId": 20075601
+      "hideWarningMessageCondId": 20075601,
+      "freeShopCondMessage": "『「第四特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -168924,9 +168924,9 @@
     ],
     "script": {
       "freeShopCondId": 20072802,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1659517200,
-      "hideWarningMessageCondId": 20072802
+      "hideWarningMessageCondId": 20072802,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -169249,9 +169249,9 @@
     ],
     "script": {
       "freeShopCondId": 20060501,
-      "freeShopCondMessage": "『「第五特異点」クリア』",
       "freeShopReleaseDate": 1728039600,
-      "hideWarningMessageCondId": 20060501
+      "hideWarningMessageCondId": 20060501,
+      "freeShopCondMessage": "『「第五特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -169294,9 +169294,9 @@
     ],
     "script": {
       "freeShopCondId": 20080602,
-      "freeShopCondMessage": "『「亜種特異点Ⅱ」クリア』",
       "freeShopReleaseDate": 1669366800,
-      "hideWarningMessageCondId": 20080602
+      "hideWarningMessageCondId": 20080602,
+      "freeShopCondMessage": "『「亜種特異点Ⅱ」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -169619,9 +169619,9 @@
     ],
     "script": {
       "freeShopCondId": 20074509,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1678525200,
-      "hideWarningMessageCondId": 20074509
+      "hideWarningMessageCondId": 20074509,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -169664,9 +169664,9 @@
     ],
     "script": {
       "freeShopCondId": 20074509,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1663405200,
-      "hideWarningMessageCondId": 20074509
+      "hideWarningMessageCondId": 20074509,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -169709,9 +169709,9 @@
     ],
     "script": {
       "freeShopCondId": 20088405,
-      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』",
       "freeShopReleaseDate": 1690707600,
-      "hideWarningMessageCondId": 20088405
+      "hideWarningMessageCondId": 20088405,
+      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -170114,9 +170114,9 @@
     ],
     "script": {
       "freeShopCondId": 20082102,
-      "freeShopCondMessage": "『「特異点F」クリア』",
       "freeShopReleaseDate": 1728039600,
-      "hideWarningMessageCondId": 20082102
+      "hideWarningMessageCondId": 20082102,
+      "freeShopCondMessage": "『「特異点F」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -170759,9 +170759,9 @@
     ],
     "script": {
       "freeShopCondId": 20097601,
-      "freeShopCondMessage": "『「第五特異点」クリア』",
       "freeShopReleaseDate": 1718096400,
-      "hideWarningMessageCondId": 20097601
+      "hideWarningMessageCondId": 20097601,
+      "freeShopCondMessage": "『「第五特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -170804,9 +170804,9 @@
     ],
     "script": {
       "freeShopCondId": 20060502,
-      "freeShopCondMessage": "『「第四特異点」クリア』",
       "freeShopReleaseDate": 1642582800,
-      "hideWarningMessageCondId": 20060502
+      "hideWarningMessageCondId": 20060502,
+      "freeShopCondMessage": "『「第四特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -170849,9 +170849,9 @@
     ],
     "script": {
       "freeShopCondId": 20060501,
-      "freeShopCondMessage": "『「第五特異点」クリア』",
       "freeShopReleaseDate": 1642582800,
-      "hideWarningMessageCondId": 20060501
+      "hideWarningMessageCondId": 20060501,
+      "freeShopCondMessage": "『「第五特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -171614,9 +171614,9 @@
     ],
     "script": {
       "freeShopCondId": 20060506,
-      "freeShopCondMessage": "『「第二特異点」クリア』",
       "freeShopReleaseDate": 1647421200,
-      "hideWarningMessageCondId": 20060506
+      "hideWarningMessageCondId": 20060506,
+      "freeShopCondMessage": "『「第二特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -171659,9 +171659,9 @@
     ],
     "script": {
       "freeShopCondId": 20060507,
-      "freeShopCondMessage": "『「第七特異点」クリア』",
       "freeShopReleaseDate": 1648026000,
-      "hideWarningMessageCondId": 20060507
+      "hideWarningMessageCondId": 20060507,
+      "freeShopCondMessage": "『「第七特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -171704,9 +171704,9 @@
     ],
     "script": {
       "freeShopCondId": 20060508,
-      "freeShopCondMessage": "『「第七特異点」クリア』",
       "freeShopReleaseDate": 1647075600,
-      "hideWarningMessageCondId": 20060508
+      "hideWarningMessageCondId": 20060508,
+      "freeShopCondMessage": "『「第七特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -172029,9 +172029,9 @@
     ],
     "script": {
       "freeShopCondId": 20060509,
-      "freeShopCondMessage": "『「深海電脳楽土 SE.RA.PH」終幕クリア』",
       "freeShopReleaseDate": 1649235600,
-      "hideWarningMessageCondId": 20060509
+      "hideWarningMessageCondId": 20060509,
+      "freeShopCondMessage": "『「深海電脳楽土 SE.RA.PH」終幕クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -172074,9 +172074,9 @@
     ],
     "script": {
       "freeShopCondId": 20070301,
-      "freeShopCondMessage": "『「Lostbelt No.2」クリア』",
       "freeShopReleaseDate": 1648630800,
-      "hideWarningMessageCondId": 20070301
+      "hideWarningMessageCondId": 20070301,
+      "freeShopCondMessage": "『「Lostbelt No.2」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -172319,9 +172319,9 @@
     ],
     "script": {
       "freeShopCondId": 20060501,
-      "freeShopCondMessage": "『「第五特異点」クリア』",
       "freeShopReleaseDate": 1650445200,
-      "hideWarningMessageCondId": 20060501
+      "hideWarningMessageCondId": 20060501,
+      "freeShopCondMessage": "『「第五特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -172364,9 +172364,9 @@
     ],
     "script": {
       "freeShopCondId": 20060501,
-      "freeShopCondMessage": "『「第五特異点」クリア』",
       "freeShopReleaseDate": 1651636800,
-      "hideWarningMessageCondId": 20060501
+      "hideWarningMessageCondId": 20060501,
+      "freeShopCondMessage": "『「第五特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -172769,9 +172769,9 @@
     ],
     "script": {
       "freeShopCondId": 20071601,
-      "freeShopCondMessage": "『「亜種特異点Ⅰ」クリア』",
       "freeShopReleaseDate": 1652266800,
-      "hideWarningMessageCondId": 20071601
+      "hideWarningMessageCondId": 20071601,
+      "freeShopCondMessage": "『「亜種特異点Ⅰ」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -172814,9 +172814,9 @@
     ],
     "script": {
       "freeShopCondId": 20088404,
-      "freeShopCondMessage": "『「Lostbelt No.3」クリア』",
       "freeShopReleaseDate": 1690707600,
-      "hideWarningMessageCondId": 20088404
+      "hideWarningMessageCondId": 20088404,
+      "freeShopCondMessage": "『「Lostbelt No.3」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -172900,9 +172900,9 @@
     ],
     "script": {
       "freeShopCondId": 20060509,
-      "freeShopCondMessage": "『「深海電脳楽土 SE.RA.PH」終幕クリア』",
       "freeShopReleaseDate": 1655542800,
-      "hideWarningMessageCondId": 20060509
+      "hideWarningMessageCondId": 20060509,
+      "freeShopCondMessage": "『「深海電脳楽土 SE.RA.PH」終幕クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -172945,9 +172945,9 @@
     ],
     "script": {
       "freeShopCondId": 20060509,
-      "freeShopCondMessage": "『「深海電脳楽土 SE.RA.PH」終幕クリア』",
       "freeShopReleaseDate": 1655542800,
-      "hideWarningMessageCondId": 20060509
+      "hideWarningMessageCondId": 20060509,
+      "freeShopCondMessage": "『「深海電脳楽土 SE.RA.PH」終幕クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -172990,9 +172990,9 @@
     ],
     "script": {
       "freeShopCondId": 20065801,
-      "freeShopCondMessage": "『「第一特異点」クリア』",
       "freeShopReleaseDate": 1654851600,
-      "hideWarningMessageCondId": 20065801
+      "hideWarningMessageCondId": 20065801,
+      "freeShopCondMessage": "『「第一特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -173361,9 +173361,9 @@
     ],
     "script": {
       "freeShopCondId": 20073101,
-      "freeShopCondMessage": "『「Lostbelt No.3」クリア』",
       "freeShopReleaseDate": 1655888400,
-      "hideWarningMessageCondId": 20073101
+      "hideWarningMessageCondId": 20073101,
+      "freeShopCondMessage": "『「Lostbelt No.3」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -173406,9 +173406,9 @@
     ],
     "script": {
       "freeShopCondId": 20072802,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1656504000,
-      "hideWarningMessageCondId": 20072802
+      "hideWarningMessageCondId": 20072802,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -173971,9 +173971,9 @@
     ],
     "script": {
       "freeShopCondId": 20072802,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1659517200,
-      "hideWarningMessageCondId": 20072802
+      "hideWarningMessageCondId": 20072802,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -174016,9 +174016,9 @@
     ],
     "script": {
       "freeShopCondId": 20072802,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1659517200,
-      "hideWarningMessageCondId": 20072802
+      "hideWarningMessageCondId": 20072802,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -174061,9 +174061,9 @@
     ],
     "script": {
       "freeShopCondId": 20072802,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1659517200,
-      "hideWarningMessageCondId": 20072802
+      "hideWarningMessageCondId": 20072802,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -174146,9 +174146,9 @@
     ],
     "script": {
       "freeShopCondId": 20074101,
-      "freeShopCondMessage": "『「亜種特異点Ⅲ」クリア』",
       "freeShopReleaseDate": 1659517200,
-      "hideWarningMessageCondId": 20074101
+      "hideWarningMessageCondId": 20074101,
+      "freeShopCondMessage": "『「亜種特異点Ⅲ」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -174552,9 +174552,9 @@
     ],
     "script": {
       "freeShopCondId": 20088403,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1690707600,
-      "hideWarningMessageCondId": 20088403
+      "hideWarningMessageCondId": 20088403,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -174917,9 +174917,9 @@
     ],
     "script": {
       "freeShopCondId": 20076901,
-      "freeShopCondMessage": "『「Lostbelt No.5 アトランティス」クリア』",
       "freeShopReleaseDate": 1664355600,
-      "hideWarningMessageCondId": 20076901
+      "hideWarningMessageCondId": 20076901,
+      "freeShopCondMessage": "『「Lostbelt No.5 アトランティス」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -174962,9 +174962,9 @@
     ],
     "script": {
       "freeShopCondId": 20076902,
-      "freeShopCondMessage": "『「Lostbelt No.5 アトランティス」クリア』",
       "freeShopReleaseDate": 1664355600,
-      "hideWarningMessageCondId": 20076902
+      "hideWarningMessageCondId": 20076902,
+      "freeShopCondMessage": "『「Lostbelt No.5 アトランティス」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -175607,9 +175607,9 @@
     ],
     "script": {
       "freeShopCondId": 20080601,
-      "freeShopCondMessage": "『「亜種特異点Ⅰ」クリア』",
       "freeShopReleaseDate": 1669280400,
-      "hideWarningMessageCondId": 20080601
+      "hideWarningMessageCondId": 20080601,
+      "freeShopCondMessage": "『「亜種特異点Ⅰ」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -175692,9 +175692,9 @@
     ],
     "script": {
       "freeShopCondId": 20079201,
-      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』",
       "freeShopReleaseDate": 1669626000,
-      "hideWarningMessageCondId": 20079201
+      "hideWarningMessageCondId": 20079201,
+      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -176897,9 +176897,9 @@
     ],
     "script": {
       "freeShopCondId": 20088402,
-      "freeShopCondMessage": "『「第六特異点」クリア』",
       "freeShopReleaseDate": 1690707600,
-      "hideWarningMessageCondId": 20088402
+      "hideWarningMessageCondId": 20088402,
+      "freeShopCondMessage": "『「第六特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -177262,9 +177262,9 @@
     ],
     "script": {
       "freeShopCondId": 20082101,
-      "freeShopCondMessage": "『「Lostbelt No.4」クリア』",
       "freeShopReleaseDate": 1678266000,
-      "hideWarningMessageCondId": 20082101
+      "hideWarningMessageCondId": 20082101,
+      "freeShopCondMessage": "『「Lostbelt No.4」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -177307,9 +177307,9 @@
     ],
     "script": {
       "freeShopCondId": 20082101,
-      "freeShopCondMessage": "『「Lostbelt No.4」クリア』",
       "freeShopReleaseDate": 1678266000,
-      "hideWarningMessageCondId": 20082101
+      "hideWarningMessageCondId": 20082101,
+      "freeShopCondMessage": "『「Lostbelt No.4」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -177352,9 +177352,9 @@
     ],
     "script": {
       "freeShopCondId": 20060502,
-      "freeShopCondMessage": "『「第四特異点」クリア』",
       "freeShopReleaseDate": 1678266000,
-      "hideWarningMessageCondId": 20060502
+      "hideWarningMessageCondId": 20060502,
+      "freeShopCondMessage": "『「第四特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -177397,9 +177397,9 @@
     ],
     "script": {
       "freeShopCondId": 20060508,
-      "freeShopCondMessage": "『「第七特異点」クリア』",
       "freeShopReleaseDate": 1678266000,
-      "hideWarningMessageCondId": 20060508
+      "hideWarningMessageCondId": 20060508,
+      "freeShopCondMessage": "『「第七特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -177442,9 +177442,9 @@
     ],
     "script": {
       "freeShopCondId": 20060501,
-      "freeShopCondMessage": "『「第五特異点」クリア』",
       "freeShopReleaseDate": 1678266000,
-      "hideWarningMessageCondId": 20060501
+      "hideWarningMessageCondId": 20060501,
+      "freeShopCondMessage": "『「第五特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -177487,9 +177487,9 @@
     ],
     "script": {
       "freeShopCondId": 20073101,
-      "freeShopCondMessage": "『「Lostbelt No.3」クリア』",
       "freeShopReleaseDate": 1678266000,
-      "hideWarningMessageCondId": 20073101
+      "hideWarningMessageCondId": 20073101,
+      "freeShopCondMessage": "『「Lostbelt No.3」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -177532,9 +177532,9 @@
     ],
     "script": {
       "freeShopCondId": 20060508,
-      "freeShopCondMessage": "『「第七特異点」クリア』",
       "freeShopReleaseDate": 1678266000,
-      "hideWarningMessageCondId": 20060508
+      "hideWarningMessageCondId": 20060508,
+      "freeShopCondMessage": "『「第七特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -177577,9 +177577,9 @@
     ],
     "script": {
       "freeShopCondId": 20060501,
-      "freeShopCondMessage": "『「第五特異点」クリア』",
       "freeShopReleaseDate": 1678266000,
-      "hideWarningMessageCondId": 20060501
+      "hideWarningMessageCondId": 20060501,
+      "freeShopCondMessage": "『「第五特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -177622,9 +177622,9 @@
     ],
     "script": {
       "freeShopCondId": 20082103,
-      "freeShopCondMessage": "『「第六特異点」クリア』",
       "freeShopReleaseDate": 1678266000,
-      "hideWarningMessageCondId": 20082103
+      "hideWarningMessageCondId": 20082103,
+      "freeShopCondMessage": "『「第六特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -177667,9 +177667,9 @@
     ],
     "script": {
       "freeShopCondId": 20074509,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1678266000,
-      "hideWarningMessageCondId": 20074509
+      "hideWarningMessageCondId": 20074509,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -177712,9 +177712,9 @@
     ],
     "script": {
       "freeShopCondId": 20082102,
-      "freeShopCondMessage": "『「特異点F」クリア』",
       "freeShopReleaseDate": 1678266000,
-      "hideWarningMessageCondId": 20082102
+      "hideWarningMessageCondId": 20082102,
+      "freeShopCondMessage": "『「特異点F」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -177757,9 +177757,9 @@
     ],
     "script": {
       "freeShopCondId": 20060502,
-      "freeShopCondMessage": "『「第四特異点」クリア』",
       "freeShopReleaseDate": 1678266000,
-      "hideWarningMessageCondId": 20060502
+      "hideWarningMessageCondId": 20060502,
+      "freeShopCondMessage": "『「第四特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -177802,9 +177802,9 @@
     ],
     "script": {
       "freeShopCondId": 20072801,
-      "freeShopCondMessage": "『「亜種特異点Ⅳ」クリア』",
       "freeShopReleaseDate": 1678266000,
-      "hideWarningMessageCondId": 20072801
+      "hideWarningMessageCondId": 20072801,
+      "freeShopCondMessage": "『「亜種特異点Ⅳ」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -177847,9 +177847,9 @@
     ],
     "script": {
       "freeShopCondId": 20074509,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1678266000,
-      "hideWarningMessageCondId": 20074509
+      "hideWarningMessageCondId": 20074509,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -178252,9 +178252,9 @@
     ],
     "script": {
       "freeShopCondId": 20074509,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1682481600,
-      "hideWarningMessageCondId": 20074509
+      "hideWarningMessageCondId": 20074509,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -179337,9 +179337,9 @@
     ],
     "script": {
       "freeShopCondId": 20088401,
-      "freeShopCondMessage": "『「Lostbelt No.2」クリア』",
       "freeShopReleaseDate": 1690707600,
-      "hideWarningMessageCondId": 20088401
+      "hideWarningMessageCondId": 20088401,
+      "freeShopCondMessage": "『「Lostbelt No.2」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -180782,9 +180782,9 @@
     ],
     "script": {
       "freeShopCondId": 20090801,
-      "freeShopCondMessage": "『「Lostbelt No.1」クリア』",
       "freeShopReleaseDate": 1700211600,
-      "hideWarningMessageCondId": 20090801
+      "hideWarningMessageCondId": 20090801,
+      "freeShopCondMessage": "『「Lostbelt No.1」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -181907,9 +181907,9 @@
     ],
     "script": {
       "freeShopCondId": 20099430,
-      "freeShopCondMessage": "『「オーディール･コール 序」クリア』",
       "freeShopReleaseDate": 1735657200,
-      "hideWarningMessageCondId": 20099430
+      "hideWarningMessageCondId": 20099430,
+      "freeShopCondMessage": "『「オーディール･コール 序」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -183192,9 +183192,9 @@
     ],
     "script": {
       "freeShopCondId": 20096704,
-      "freeShopCondMessage": "『「Lostbelt No.5 アトランティス」クリア』",
       "freeShopReleaseDate": 1718337600,
-      "hideWarningMessageCondId": 20096704
+      "hideWarningMessageCondId": 20096704,
+      "freeShopCondMessage": "『「Lostbelt No.5 アトランティス」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -183237,9 +183237,9 @@
     ],
     "script": {
       "freeShopCondId": 20096705,
-      "freeShopCondMessage": "『「Lostbelt No.5 アトランティス」クリア』",
       "freeShopReleaseDate": 1718337600,
-      "hideWarningMessageCondId": 20096705
+      "hideWarningMessageCondId": 20096705,
+      "freeShopCondMessage": "『「Lostbelt No.5 アトランティス」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -183282,9 +183282,9 @@
     ],
     "script": {
       "freeShopCondId": 20096706,
-      "freeShopCondMessage": "『「第三特異点」クリア』",
       "freeShopReleaseDate": 1718337600,
-      "hideWarningMessageCondId": 20096706
+      "hideWarningMessageCondId": 20096706,
+      "freeShopCondMessage": "『「第三特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -184927,9 +184927,9 @@
     ],
     "script": {
       "freeShopCondId": 20099430,
-      "freeShopCondMessage": "『「オーディール･コール 序」クリア』",
       "freeShopReleaseDate": 1735657200,
-      "hideWarningMessageCondId": 20099430
+      "hideWarningMessageCondId": 20099430,
+      "freeShopCondMessage": "『「オーディール･コール 序」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -184972,9 +184972,9 @@
     ],
     "script": {
       "freeShopCondId": 20099430,
-      "freeShopCondMessage": "『「オーディール･コール 序」クリア』",
       "freeShopReleaseDate": 1735657200,
-      "hideWarningMessageCondId": 20099430
+      "hideWarningMessageCondId": 20099430,
+      "freeShopCondMessage": "『「オーディール･コール 序」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -185017,9 +185017,9 @@
     ],
     "script": {
       "freeShopCondId": 20099430,
-      "freeShopCondMessage": "『「オーディール･コール 序」クリア』",
       "freeShopReleaseDate": 1735657200,
-      "hideWarningMessageCondId": 20099430
+      "hideWarningMessageCondId": 20099430,
+      "freeShopCondMessage": "『「オーディール･コール 序」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -185342,9 +185342,9 @@
     ],
     "script": {
       "freeShopCondId": 20099421,
-      "freeShopCondMessage": "『「Lostbelt No.4」クリア』",
       "freeShopReleaseDate": 1725181200,
-      "hideWarningMessageCondId": 20099421
+      "hideWarningMessageCondId": 20099421,
+      "freeShopCondMessage": "『「Lostbelt No.4」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -185667,9 +185667,9 @@
     ],
     "script": {
       "freeShopCondId": 20099423,
-      "freeShopCondMessage": "『「Lostbelt No.5 オリュンポス」クリア』",
       "freeShopReleaseDate": 1727773200,
-      "hideWarningMessageCondId": 20099423
+      "hideWarningMessageCondId": 20099423,
+      "freeShopCondMessage": "『「Lostbelt No.5 オリュンポス」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -186192,9 +186192,9 @@
     ],
     "script": {
       "freeShopCondId": 20099420,
-      "freeShopCondMessage": "『「Lostbelt No.3」クリア』",
       "freeShopReleaseDate": 1728039600,
-      "hideWarningMessageCondId": 20099420
+      "hideWarningMessageCondId": 20099420,
+      "freeShopCondMessage": "『「Lostbelt No.3」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -186237,9 +186237,9 @@
     ],
     "script": {
       "freeShopCondId": 20099428,
-      "freeShopCondMessage": "『「死想顕現界域 トラオム」クリア』",
       "freeShopReleaseDate": 1728039600,
-      "hideWarningMessageCondId": 20099428
+      "hideWarningMessageCondId": 20099428,
+      "freeShopCondMessage": "『「死想顕現界域 トラオム」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -186282,9 +186282,9 @@
     ],
     "script": {
       "freeShopCondId": 20099420,
-      "freeShopCondMessage": "『「Lostbelt No.3」クリア』",
       "freeShopReleaseDate": 1728039600,
-      "hideWarningMessageCondId": 20099420
+      "hideWarningMessageCondId": 20099420,
+      "freeShopCondMessage": "『「Lostbelt No.3」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -186327,9 +186327,9 @@
     ],
     "script": {
       "freeShopCondId": 20099417,
-      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』",
       "freeShopReleaseDate": 1728039600,
-      "hideWarningMessageCondId": 20099417
+      "hideWarningMessageCondId": 20099417,
+      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -186372,9 +186372,9 @@
     ],
     "script": {
       "freeShopCondId": 20060504,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1728039600,
-      "hideWarningMessageCondId": 20060504
+      "hideWarningMessageCondId": 20060504,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -186697,9 +186697,9 @@
     ],
     "script": {
       "freeShopCondId": 20099425,
-      "freeShopCondMessage": "『「Lostbelt No.6」クリア』",
       "freeShopReleaseDate": 1730451600,
-      "hideWarningMessageCondId": 20099425
+      "hideWarningMessageCondId": 20099425,
+      "freeShopCondMessage": "『「Lostbelt No.6」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -186742,9 +186742,9 @@
     ],
     "script": {
       "freeShopCondId": 20099425,
-      "freeShopCondMessage": "『「Lostbelt No.6」クリア』",
       "freeShopReleaseDate": 1730451600,
-      "hideWarningMessageCondId": 20099425
+      "hideWarningMessageCondId": 20099425,
+      "freeShopCondMessage": "『「Lostbelt No.6」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -187147,9 +187147,9 @@
     ],
     "script": {
       "freeShopCondId": 20099403,
-      "freeShopCondMessage": "『「Lostbelt No.7」クリア』",
       "freeShopReleaseDate": 1733043600,
-      "hideWarningMessageCondId": 20099403
+      "hideWarningMessageCondId": 20099403,
+      "freeShopCondMessage": "『「Lostbelt No.7」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -187192,9 +187192,9 @@
     ],
     "script": {
       "freeShopCondId": 20099403,
-      "freeShopCondMessage": "『「Lostbelt No.7」クリア』",
       "freeShopReleaseDate": 1733043600,
-      "hideWarningMessageCondId": 20099403
+      "hideWarningMessageCondId": 20099403,
+      "freeShopCondMessage": "『「Lostbelt No.7」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -189118,9 +189118,9 @@
     ],
     "script": {
       "freeShopCondId": 20141602,
-      "freeShopCondMessage": "『「死想顕現界域 トラオム」クリア』",
       "freeShopReleaseDate": 1741172400,
-      "hideWarningMessageCondId": 20141602
+      "hideWarningMessageCondId": 20141602,
+      "freeShopCondMessage": "『「死想顕現界域 トラオム」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -189483,9 +189483,9 @@
     ],
     "script": {
       "freeShopCondId": 20060504,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1745985600,
-      "hideWarningMessageCondId": 20060504
+      "hideWarningMessageCondId": 20060504,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -190128,9 +190128,9 @@
     ],
     "script": {
       "freeShopCondId": 20144503,
-      "freeShopCondMessage": "『「Lostbelt No.3」クリア』",
       "freeShopReleaseDate": 1744189200,
-      "hideWarningMessageCondId": 20144503
+      "hideWarningMessageCondId": 20144503,
+      "freeShopCondMessage": "『「Lostbelt No.3」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -190173,9 +190173,9 @@
     ],
     "script": {
       "freeShopCondId": 20144501,
-      "freeShopCondMessage": "『「特異点F」クリア』",
       "freeShopReleaseDate": 1744189200,
-      "hideWarningMessageCondId": 20144501
+      "hideWarningMessageCondId": 20144501,
+      "freeShopCondMessage": "『「特異点F」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -190218,9 +190218,9 @@
     ],
     "script": {
       "freeShopCondId": 20144502,
-      "freeShopCondMessage": "『「Lostbelt No.1」クリア』",
       "freeShopReleaseDate": 1744189200,
-      "hideWarningMessageCondId": 20144502
+      "hideWarningMessageCondId": 20144502,
+      "freeShopCondMessage": "『「Lostbelt No.1」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -190263,9 +190263,9 @@
     ],
     "script": {
       "freeShopCondId": 20144501,
-      "freeShopCondMessage": "『「特異点F」クリア』",
       "freeShopReleaseDate": 1744189200,
-      "hideWarningMessageCondId": 20144501
+      "hideWarningMessageCondId": 20144501,
+      "freeShopCondMessage": "『「特異点F」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -190308,9 +190308,9 @@
     ],
     "script": {
       "freeShopCondId": 20144504,
-      "freeShopCondMessage": "『「非霊長生存圏 ツングースカ・サンクチュアリ」クリア』",
       "freeShopReleaseDate": 1744189200,
-      "hideWarningMessageCondId": 20144504
+      "hideWarningMessageCondId": 20144504,
+      "freeShopCondMessage": "『「非霊長生存圏 ツングースカ・サンクチュアリ」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -191473,9 +191473,9 @@
     ],
     "script": {
       "freeShopCondId": 20147001,
-      "freeShopCondMessage": "『「特異点F」クリア』",
       "freeShopReleaseDate": 1754211600,
-      "hideWarningMessageCondId": 20147001
+      "hideWarningMessageCondId": 20147001,
+      "freeShopCondMessage": "『「特異点F」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -191518,9 +191518,9 @@
     ],
     "script": {
       "freeShopCondId": 20147002,
-      "freeShopCondMessage": "『「第七特異点」クリア』",
       "freeShopReleaseDate": 1754211600,
-      "hideWarningMessageCondId": 20147002
+      "hideWarningMessageCondId": 20147002,
+      "freeShopCondMessage": "『「第七特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -193683,9 +193683,9 @@
     ],
     "script": {
       "freeShopCondId": 20099417,
-      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』",
       "freeShopReleaseDate": 1760691600,
-      "hideWarningMessageCondId": 20099417
+      "hideWarningMessageCondId": 20099417,
+      "freeShopCondMessage": "『「第2部プロローグ 序」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -194208,9 +194208,9 @@
     ],
     "script": {
       "freeShopCondId": 20151301,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1761901200,
-      "hideWarningMessageCondId": 20151301
+      "hideWarningMessageCondId": 20151301,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -194253,9 +194253,9 @@
     ],
     "script": {
       "freeShopCondId": 20151302,
-      "freeShopCondMessage": "『「死想顕現界域 トラオム」クリア』",
       "freeShopReleaseDate": 1761901200,
-      "hideWarningMessageCondId": 20151302
+      "hideWarningMessageCondId": 20151302,
+      "freeShopCondMessage": "『「死想顕現界域 トラオム」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -194298,9 +194298,9 @@
     ],
     "script": {
       "freeShopCondId": 20151303,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1761901200,
-      "hideWarningMessageCondId": 20151303
+      "hideWarningMessageCondId": 20151303,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -195143,9 +195143,9 @@
     ],
     "script": {
       "freeShopCondId": 20152602,
-      "freeShopCondMessage": "『「終局特異点」クリア』",
       "freeShopReleaseDate": 1768363200,
-      "hideWarningMessageCondId": 20152602
+      "hideWarningMessageCondId": 20152602,
+      "freeShopCondMessage": "『「終局特異点」クリア』"
     },
     "anotherPayType": 0,
     "anotherItemIds": [],
@@ -199239,7 +199239,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 99,
+    "priority": 329,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 10,
@@ -199279,7 +199279,7 @@
     "eventId": 0,
     "slot": 0,
     "flag": 256,
-    "priority": 100,
+    "priority": 330,
     "purchaseType": 4,
     "setNum": 1,
     "payType": 10,
@@ -199295,6 +199295,286 @@
     "bgImageId": 0,
     "openedAt": 1791968400,
     "closedAt": 1901199599
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      5
+    ],
+    "targetIds": [
+      6999
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001323,
+    "baseShopId": 6001323,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 101,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "伝承結晶",
+    "detail": "【スキル強化素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1794668400,
+    "closedAt": 1797260399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      3
+    ],
+    "targetIds": [
+      1000
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001324,
+    "baseShopId": 6001324,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 102,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "カルデアの夢火",
+    "detail": "【絆上限開放素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1794668400,
+    "closedAt": 1797260399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      2
+    ],
+    "targetIds": [
+      9570400
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001325,
+    "baseShopId": 6001325,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 103,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・流星のフォウくん",
+    "detail": "★4ALLのHPアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1794668400,
+    "closedAt": 1797260399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      2
+    ],
+    "targetIds": [
+      9670400
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001326,
+    "baseShopId": 6001326,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 104,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "英霊結晶・日輪のフォウくん",
+    "detail": "★4ALLのATKアップカード1枚へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1794668400,
+    "closedAt": 1797260399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      2000
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001327,
+    "baseShopId": 6001327,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 105,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 6,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "獣の足跡",
+    "detail": "【コマンドカード強化素材】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 2000,
+    "bgImageId": 0,
+    "openedAt": 1794668400,
+    "closedAt": 1797260399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      5003
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001328,
+    "baseShopId": 6001328,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 106,
+    "purchaseType": 1,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 3,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "コード・リムーバー",
+    "detail": "【コマンドコードスロット削除アイテム】へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1794668400,
+    "closedAt": 1797260399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      4
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001329,
+    "baseShopId": 6001329,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 4096,
+    "priority": 107,
+    "purchaseType": 1,
+    "setNum": 20000,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 5,
+    "defaultLv": 0,
+    "defaultLimitCount": 0,
+    "name": "フレンドポイント",
+    "detail": "フレンドポイント20,000へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1794668400,
+    "closedAt": 1797260399
   },
   {
     "itemIds": [
