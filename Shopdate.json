@@ -150699,6 +150699,86 @@
       10
     ],
     "targetIds": [
+      2501400
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4002086,
+    "baseShopId": 4001038,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 4330,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "蒼崎青子",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1795165200,
+    "closedAt": 1796356799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
+      505500
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 4002087,
+    "baseShopId": 4001040,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 0,
+    "priority": 4320,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 9,
+    "shopType": 7,
+    "limitNum": 1,
+    "defaultLv": 1,
+    "defaultLimitCount": 0,
+    "name": "久遠寺有珠",
+    "detail": "期間限定★5サーヴァントへ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1795165200,
+    "closedAt": 1796356799
+  },
+  {
+    "itemIds": [
+      17
+    ],
+    "prices": [
+      10
+    ],
+    "targetIds": [
       2801400
     ],
     "script": {},
@@ -199815,6 +199895,46 @@
     "bgImageId": 0,
     "openedAt": 1794668400,
     "closedAt": 1797260399
+  },
+  {
+    "itemIds": [
+      18
+    ],
+    "prices": [
+      1
+    ],
+    "targetIds": [
+      9311300
+    ],
+    "script": {},
+    "anotherPayType": 0,
+    "anotherItemIds": [],
+    "useAnotherPayCommonReleaseId": 0,
+    "freeShopCondId": 0,
+    "freeShopCondMessage": "",
+    "hideWarningMessageCondId": 0,
+    "freeShopReleaseDate": 0,
+    "id": 6001330,
+    "baseShopId": 6001330,
+    "eventId": 0,
+    "slot": 0,
+    "flag": 256,
+    "priority": 100,
+    "purchaseType": 4,
+    "setNum": 1,
+    "payType": 10,
+    "shopType": 3,
+    "limitNum": 1,
+    "defaultLv": 80,
+    "defaultLimitCount": 4,
+    "name": "巡霊の祝祭／拾肆",
+    "detail": "「巡霊の祝祭 第14弾」限定★4概念礼装へ交換",
+    "infoMessage": "",
+    "warningMessage": "",
+    "imageId": 0,
+    "bgImageId": 0,
+    "openedAt": 1795165200,
+    "closedAt": 1901199599
   },
   {
     "itemIds": [
@@ -655458,12 +655578,12 @@
     ],
     "script": {
       "anotherPayType": 6,
+      "anotherItemIds": [
+        94153905
+      ],
       "eventTutorialFlagSet": [
         -208,
         66
-      ],
-      "anotherItemIds": [
-        94153905
       ]
     },
     "anotherPayType": 6,
